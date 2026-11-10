@@ -1,0 +1,5 @@
+Rozpakuj cały ZIP i otwórz index.html dwuklikiem.
+Zachowaj obok siebie pliki HTML, style.css, site.js i folder images.
+Nie trzeba instalować programów ani uruchamiać serwera.
+Kontakt zawiera cztery pytania i dane kontaktowe. Ankieta otwiera aplikację pocztową z przygotowaną wiadomością, nie wysyła jej automatycznie.
+Czcionki Google wymagają internetu. Wersja HTML nie łączy się z Lovable Cloud.
